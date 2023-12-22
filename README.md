@@ -94,7 +94,6 @@ ps: return all supported currencies from exchange rate api
   "AZN":1.8050,
   "BAM":1.9558,
   "BBD":2.1395,
-  ...
  }
 }
 ```
